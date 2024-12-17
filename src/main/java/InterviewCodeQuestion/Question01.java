@@ -27,7 +27,7 @@ public class Question01 {
 		for(WebElement ele:al)
 		{
 			System.out.println(ele.getText());
-			System.out.println("hi");
+			
 		}
 		
 
